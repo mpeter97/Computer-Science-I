@@ -1,0 +1,241 @@
+ NAME                                                 CONTINENT          LAND AREA           POPULATION      LIFE EXPECT.       GNP
+--------------------------------------------------------------------------------------------------------------------------------------
+Afghanistan                                         Asia                    652,090           22,720,000        45.9            5,976
+Albania                                             Europe                   28,748            3,401,200        71.6            3,205
+Algeria                                             Africa                2,381,741           31,471,000        69.7           49,982
+American Samoa                                      Oceania                     199               68,000        75.1              334
+Andorra                                             Europe                      468               78,000        83.5            1,630
+Angola                                              Africa                1,246,700           12,878,000        38.3            6,648
+Anguilla                                            North America                96                8,000        76.1               63
+Antarctica                                          Antarctica           13,120,000                    0         0.0                0
+Antigua and Barbuda                                 North America               442               68,000        70.5              612
+Argentina                                           South America         2,780,400           37,032,000        75.1          340,238
+Armenia                                             Asia                     29,800            3,520,000        66.4            1,813
+Aruba                                               North America               193              103,000        78.4              828
+Australia                                           Oceania               7,741,220           18,886,000        79.8          351,182
+Austria                                             Europe                   83,859            8,091,800        77.7          211,860
+Azerbaijan                                          Asia                     86,600            7,734,000        62.9            4,127
+Bahamas                                             North America            13,878              307,000        71.1            3,527
+Bahrain                                             Asia                        694              617,000        73.0            6,366
+Bangladesh                                          Asia                    143,998          129,155,000        60.2           32,852
+Barbados                                            North America               430              270,000        73.0            2,223
+Belarus                                             Europe                  207,600           10,236,000        68.0           13,714
+Belgium                                             Europe                   30,518           10,239,000        77.8          249,704
+Belize                                              North America            22,696              241,000        70.9              630
+Benin                                               Africa                  112,622            6,097,000        50.2            2,357
+Bermuda                                             North America                53               65,000        76.9            2,328
+Bhutan                                              Asia                     47,000            2,124,000        52.4              372
+Bolivia                                             South America         1,098,581            8,329,000        63.7            8,571
+Bosnia and Herzegovina                              Europe                   51,197            3,972,000        71.5            2,841
+Botswana                                            Africa                  581,730            1,622,000        39.3            4,834
+Bouvet Island                                       Antarctica                   59                    0         0.0                0
+Brazil                                              South America         8,547,403          170,115,000        62.9          776,739
+British Indian Ocean Territory                      Africa                       78                    0         0.0                0
+Brunei                                              Asia                      5,765              328,000        73.6           11,705
+Bulgaria                                            Europe                  110,994            8,190,900        70.9           12,178
+Burkina Faso                                        Africa                  274,000           11,937,000        46.7            2,425
+Burundi                                             Africa                   27,834            6,695,000        46.2              903
+Cambodia                                            Asia                    181,035           11,168,000        56.5            5,121
+Cameroon                                            Africa                  475,442           15,085,000        54.8            9,174
+Canada                                              North America         9,970,610           31,147,000        79.4          598,862
+Cape Verde                                          Africa                    4,033              428,000        68.9              435
+Cayman Islands                                      North America               264               38,000        78.9            1,263
+Central African Republic                            Africa                  622,984            3,615,000        44.0            1,054
+Chad                                                Africa                1,284,000            7,651,000        50.5            1,208
+Chile                                               South America           756,626           15,211,000        75.7           72,949
+China                                               Asia                  9,572,900        1,277,558,000        71.4          982,268
+Christmas Island                                    Oceania                     135                2,500         0.0                0
+Cocos (Keeling) Islands                             Oceania                      14                  600         0.0                0
+Colombia                                            South America         1,138,914           42,321,000        70.3          102,896
+Comoros                                             Africa                    1,862              578,000        60.0            4,401
+Congo                                               Africa                2,344,858           51,654,000        48.8            6,964
+Congo                                               Africa                  342,000            2,943,000        47.4            2,108
+Cook Islands                                        Oceania                     236               20,000        71.1              100
+Costa Rica                                          North America            51,100            4,023,000        75.8           10,226
+Cote d?Ivoire                                       Africa                  322,463           14,786,000        45.2           11,345
+Croatia                                             Europe                   56,538            4,473,000        73.7           20,208
+Cuba                                                North America           110,861           11,201,000        76.2           17,843
+Cyprus                                              Asia                      9,251              754,700        76.7            9,333
+Czech Republic                                      Europe                   78,866           10,278,100        74.5           55,017
+Denmark                                             Europe                   43,094            5,330,000        76.5          174,099
+Djibouti                                            Africa                   23,200              638,000        50.8              382
+Dominica                                            North America               751               71,000        73.4              256
+Dominican Republic                                  North America            48,511            8,495,000        73.2           15,846
+East Timor                                          Asia                     14,874              885,000        46.0                0
+Ecuador                                             South America           283,561           12,646,000        71.1           19,770
+Egypt                                               Africa                1,001,449           68,470,000        63.3           82,710
+El Salvador                                         North America            21,041            6,276,000        69.7           11,863
+Equatorial Guinea                                   Africa                   28,051              453,000        53.6              283
+Eritrea                                             Africa                  117,600            3,850,000        55.8              650
+Estonia                                             Europe                   45,227            1,439,200        69.5            5,328
+Ethiopia                                            Africa                1,104,300           62,565,000        45.2            6,353
+Falkland Islands                                    South America            12,173                2,000         0.0                0
+Faroe Islands                                       Europe                    1,399               43,000        78.4                0
+Fiji Islands                                        Oceania                  18,274              817,000        67.9            1,536
+Finland                                             Europe                  338,145            5,171,300        77.4          121,914
+France                                              Europe                  551,500           59,225,700        78.8        1,424,285
+French Guiana                                       South America            90,000              181,000        76.1              681
+French Polynesia                                    Oceania                   4,000              235,000        74.8              818
+French Southern territories                         Antarctica                7,780                    0         0.0                0
+Gabon                                               Africa                  267,668            1,226,000        50.1            5,493
+Gambia                                              Africa                   11,295            1,305,000        53.2              320
+Georgia                                             Asia                     69,700            4,968,000        64.5            6,064
+Germany                                             Europe                  357,022           82,164,700        77.4        2,133,367
+Ghana                                               Africa                  238,533           20,212,000        57.4            7,137
+Gibraltar                                           Europe                        6               25,000        79.0              258
+Greece                                              Europe                  131,626           10,545,700        78.4          120,724
+Greenland                                           North America         2,166,090               56,000        68.1                0
+Grenada                                             North America               344               94,000        64.5              318
+Guadeloupe                                          North America             1,705              456,000        77.0            3,501
+Guam                                                Oceania                     549              168,000        77.8            1,197
+Guatemala                                           North America           108,889           11,385,000        66.2           19,008
+Guinea                                              Africa                  245,857            7,430,000        45.6            2,352
+Guinea-Bissau                                       Africa                   36,125            1,213,000        49.0              293
+Guyana                                              South America           214,969              861,000        64.0              722
+Haiti                                               North America            27,750            8,222,000        49.2            3,459
+Heard Island and McDonald Islands                   Antarctica                  359                    0         0.0                0
+Holy See (Vatican City State)                       Europe                        1                1,000         0.0                9
+Honduras                                            North America           112,088            6,485,000        69.9            5,333
+Hong Kong                                           Asia                      1,075            6,782,000        79.5          166,448
+Hungary                                             Europe                   93,030           10,043,200        71.4           48,267
+Iceland                                             Europe                  103,000              279,000        79.4            8,255
+India                                               Asia                  3,287,263        1,013,662,000        62.5          447,114
+Indonesia                                           Asia                  1,904,569          212,107,000        68.0           84,982
+Iran                                                Asia                  1,648,195           67,702,000        69.7          195,746
+Iraq                                                Asia                    438,317           23,115,000        66.5           11,500
+Ireland                                             Europe                   70,273            3,775,100        76.8           75,921
+Israel                                              Asia                     21,056            6,217,000        78.6           97,477
+Italy                                               Europe                  301,316           57,680,000        79.0        1,161,755
+Jamaica                                             North America            10,990            2,583,000        75.2            6,871
+Japan                                               Asia                    377,829          126,714,000        80.7        3,787,042
+Jordan                                              Asia                     88,946            5,083,000        77.4            7,526
+Kazakstan                                           Asia                  2,724,900           16,223,000        63.2           24,375
+Kenya                                               Africa                  580,367           30,080,000        48.0            9,217
+Kiribati                                            Oceania                     726               83,000        59.8               41
+Kuwait                                              Asia                     17,818            1,972,000        76.1           27,037
+Kyrgyzstan                                          Asia                    199,900            4,699,000        63.4            1,626
+Laos                                                Asia                    236,800            5,433,000        53.1            1,292
+Latvia                                              Europe                   64,589            2,424,200        68.4            6,398
+Lebanon                                             Asia                     10,400            3,282,000        71.3           17,121
+Lesotho                                             Africa                   30,355            2,153,000        50.8            1,061
+Liberia                                             Africa                  111,369            3,154,000        51.0            2,012
+Libyan Arab Jamahiriya                              Africa                1,759,540            5,605,000        75.5           44,806
+Liechtenstein                                       Europe                      160               32,300        78.8            1,119
+Lithuania                                           Europe                   65,301            3,698,500        69.1           10,692
+Luxembourg                                          Europe                    2,586              435,700        77.1           16,321
+Macao                                               Asia                         18              473,000        81.6            5,749
+Macedonia                                           Europe                   25,713            2,024,000        73.8            1,694
+Madagascar                                          Africa                  587,041           15,942,000        55.0            3,750
+Malawi                                              Africa                  118,484           10,925,000        37.6            1,687
+Malaysia                                            Asia                    329,758           22,244,000        70.8           69,213
+Maldives                                            Asia                        298              286,000        62.2              199
+Mali                                                Africa                1,240,192           11,234,000        46.7            2,642
+Malta                                               Europe                      316              380,200        77.9            3,512
+Marshall Islands                                    Oceania                     181               64,000        65.5               97
+Martinique                                          North America             1,102              395,000        78.3            2,731
+Mauritania                                          Africa                1,025,520            2,670,000        50.8              998
+Mauritius                                           Africa                    2,040            1,158,000        71.0            4,251
+Mayotte                                             Africa                      373              149,000        59.5                0
+Mexico                                              North America         1,958,201           98,881,000        71.5          414,972
+Micronesia                                          Oceania                     702              119,000        68.6              212
+Moldova                                             Europe                   33,851            4,380,000        64.5            1,579
+Monaco                                              Europe                        2               34,000        78.8              776
+Mongolia                                            Asia                  1,566,500            2,662,000        67.3            1,043
+Montserrat                                          North America               102               11,000        78.0              109
+Morocco                                             Africa                  446,550           28,351,000        69.1           36,124
+Mozambique                                          Africa                  801,590           19,680,000        37.5            2,891
+Myanmar                                             Asia                    676,578           45,611,000        54.9          180,375
+Namibia                                             Africa                  824,292            1,726,000        42.5            3,101
+Nauru                                               Oceania                      21               12,000        60.8              197
+Nepal                                               Asia                    147,181           23,930,000        57.8            4,768
+Netherlands                                         Europe                   41,526           15,864,000        78.3          371,362
+Netherlands Antilles                                North America               800              217,000        74.7            1,941
+New Caledonia                                       Oceania                  18,575              214,000        72.8            3,563
+New Zealand                                         Oceania                 270,534            3,862,000        77.8           54,669
+Nicaragua                                           North America           130,000            5,074,000        68.7            1,988
+Niger                                               Africa                1,267,000           10,730,000        41.3            1,706
+Nigeria                                             Africa                  923,768          111,506,000        51.6           65,707
+Niue                                                Oceania                     260                2,000         0.0                0
+Norfolk Island                                      Oceania                      36                2,000         0.0                0
+North Korea                                         Asia                    120,538           24,039,000        70.7            5,332
+Northern Mariana Islands                            Oceania                     464               78,000        75.5                0
+Norway                                              Europe                  323,877            4,478,500        78.7          145,895
+Oman                                                Asia                    309,500            2,542,000        71.8           16,904
+Pakistan                                            Asia                    796,095          156,483,000        61.1           61,289
+Palau                                               Oceania                     459               19,000        68.6              105
+Palestine                                           Asia                      6,257            3,101,000        71.4            4,173
+Panama                                              North America            75,517            2,856,000        75.5            9,131
+Papua New Guinea                                    Oceania                 462,840            4,807,000        63.1            4,988
+Paraguay                                            South America           406,752            5,496,000        73.7            8,444
+Peru                                                South America         1,285,216           25,662,000        70.0           64,140
+Philippines                                         Asia                    300,000           75,967,000        67.5           65,107
+Pitcairn                                            Oceania                      49                   50         0.0                0
+Poland                                              Europe                  323,250           38,653,600        73.2          151,697
+Portugal                                            Europe                   91,982            9,997,600        75.8          105,954
+Puerto Rico                                         North America             8,875            3,869,000        75.6           34,100
+Qatar                                               Asia                     11,000              599,000        72.4            9,472
+Reunion                                             Africa                    2,510              699,000        72.7            8,287
+Romania                                             Europe                  238,391           22,455,500        69.9           38,158
+Russian Federation                                  Europe               17,075,400          146,934,000        67.2          276,608
+Rwanda                                              Africa                   26,338            7,733,000        39.3            2,036
+Saint Helena                                        Africa                      314                6,000        76.8                0
+Saint Kitts and Nevis                               North America               261               38,000        70.7              299
+Saint Lucia                                         North America               622              154,000        72.3              571
+Saint Pierre and Miquelon                           North America               242                7,000        77.6                0
+Saint Vincent and the Grenadines                    North America               388              114,000        72.3              285
+Samoa                                               Oceania                   2,831              180,000        69.2              141
+San Marino                                          Europe                       61               27,000        81.1              510
+Sao Tome and Principe                               Africa                      964              147,000        65.3                6
+Saudi Arabia                                        Asia                  2,149,690           21,607,000        67.8          137,635
+Senegal                                             Africa                  196,722            9,481,000        62.2            4,787
+Seychelles                                          Africa                      455               77,000        70.4              536
+Sierra Leone                                        Africa                   71,740            4,854,000        45.3              746
+Singapore                                           Asia                        618            3,567,000        80.1           86,503
+Slovakia                                            Europe                   49,012            5,398,700        73.7           20,594
+Slovenia                                            Europe                   20,256            1,987,800        74.9           19,756
+Solomon Islands                                     Oceania                  28,896              444,000        71.3              182
+Somalia                                             Africa                  637,657           10,097,000        46.2              935
+South Africa                                        Africa                1,221,037           40,377,000        51.1          116,729
+South Georgia and the South Sandwich Islands        Antarctica                3,903                    0         0.0                0
+South Korea                                         Asia                     99,434           46,844,000        74.4          320,749
+Spain                                               Europe                  505,992           39,441,700        78.8          553,233
+Sri Lanka                                           Asia                     65,610           18,827,000        71.8           15,706
+Sudan                                               Africa                2,505,813           29,490,000        56.6           10,162
+Suriname                                            South America           163,265              417,000        71.4              870
+Svalbard and Jan Mayen                              Europe                   62,422                3,200         0.0                0
+Swaziland                                           Africa                   17,364            1,008,000        40.4            1,206
+Sweden                                              Europe                  449,964            8,861,400        79.6          226,492
+Switzerland                                         Europe                   41,284            7,160,400        79.6          264,478
+Syria                                               Asia                    185,180           16,125,000        68.5           65,984
+Taiwan                                              Asia                     36,188           22,256,000        76.4          256,254
+Tajikistan                                          Asia                    143,100            6,188,000        64.1            1,990
+Tanzania                                            Africa                  883,749           33,517,000        52.3            8,005
+Thailand                                            Asia                    513,115           61,399,000        68.6          116,416
+Togo                                                Africa                   56,785            4,629,000        54.7            1,449
+Tokelau                                             Oceania                      12                2,000         0.0                0
+Tonga                                               Oceania                     650               99,000        67.9              146
+Trinidad and Tobago                                 North America             5,130            1,295,000        68.0            6,232
+Tunisia                                             Africa                  163,610            9,586,000        73.7           20,026
+Turkey                                              Asia                    774,815           66,591,000        71.0          210,721
+Turkmenistan                                        Asia                    488,100            4,459,000        60.9            4,397
+Turks and Caicos Islands                            North America               430               17,000        73.3               96
+Tuvalu                                              Oceania                      26               12,000        66.3                6
+Uganda                                              Africa                  241,038           21,778,000        42.9            6,313
+Ukraine                                             Europe                  603,700           50,456,000        66.0           42,168
+United Arab Emirates                                Asia                     83,600            2,441,000        74.1           37,966
+United Kingdom                                      Europe                  242,900           59,623,400        77.7        1,378,330
+United States                                       North America         9,363,520          278,357,000        77.1        8,510,700
+United States Minor Outlying Islands                Oceania                      16                    0         0.0                0
+Uruguay                                             South America           175,016            3,337,000        75.2           20,831
+Uzbekistan                                          Asia                    447,400           24,318,000        63.7           14,194
+Vanuatu                                             Oceania                  12,189              190,000        60.6              261
+Venezuela                                           South America           912,050           24,170,000        73.1           95,023
+Vietnam                                             Asia                    331,689           79,832,000        69.3           21,929
+Virgin Islands                                      North America               347               93,000        78.1                0
+Virgin Islands                                      North America               151               21,000        75.4              612
+Wallis and Futuna                                   Oceania                     200               15,000         0.0                0
+Western Sahara                                      Africa                  266,000              293,000        49.8               60
+Yemen                                               Asia                    527,968           18,112,000        59.8            6,041
+Yugoslavia                                          Europe                  102,173           10,640,000        72.4           17,000
+Zambia                                              Africa                  752,618            9,169,000        37.2            3,377
+Zimbabwe                                            Africa                  390,757           11,669,000        37.8            5,951
